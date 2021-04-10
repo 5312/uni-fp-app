@@ -1,0 +1,19 @@
+{
+  "name": "fqapp",
+  "version": "1.0.0",
+  "description": "> 极简的登录模板，包含登录，注册，找回密码三个页面。  \r > 这里也写了个简单的项目(无实际功能)，可供学习使用。  \r > [喜欢可以star下，点击查看Github](https://github.com/AmosHuKe/Watch-Test)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uview-ui": "^1.8.4"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^11.0.1"
+  }
+}
